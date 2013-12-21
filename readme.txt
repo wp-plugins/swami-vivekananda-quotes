@@ -19,10 +19,6 @@ Description: You will see a random quote from Swami Vivekananda displayed at the
 Install Swami Vivekananda Quotes either via the WordPress.org plugin directory, or by uploading the files to your server
 That’s it. You’re ready to go!
 
-== Frequently Asked Questions ==
- 
-== Changelog ==
-
 = 1.0 =
 * initial release.
  
